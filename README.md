@@ -12,7 +12,7 @@ npm install
 3. Import `.env` file for bot token
 
 ## Deployment
-The bot is autmatically deployed to and hosted on Discord by Heroku.
+The bot is automatically deployed to and hosted on Discord by Heroku.
 
 Every time a commit is made to the main branch, the changes should be reflected on the bot in less than a minute.
 
