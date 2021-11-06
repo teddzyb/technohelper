@@ -1,7 +1,7 @@
 # TechnoHelper
 A helper bot for the TechnoFlare Discord Server. Provides information, utility, and moderation commands.
 
-Build under the Discord.js library for interacting with the Discord API.
+Build under the Discord.js v13 library for interacting with the Discord API.
 
 ## Installation
 1. Clone the repo
