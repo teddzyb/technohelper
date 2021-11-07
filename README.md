@@ -1,7 +1,7 @@
 # TechnoHelper
 A helper bot for the TechnoFlare Discord Server. Provides information, utility, and moderation commands.
 
-Build under the Discord.js v13 library for interacting with the Discord API.
+Built under the Discord.js v13 library for interacting with the Discord API.
 
 ## Installation
 1. Clone the repo
@@ -9,7 +9,7 @@ Build under the Discord.js v13 library for interacting with the Discord API.
 ```sh-session
 npm install
 ```
-3. Import `.env` file for bot token
+3. Import `.env` file for the bot token
 
 ## Deployment
 The bot is automatically deployed to and hosted on Discord by Heroku.
