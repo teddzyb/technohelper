@@ -9,7 +9,6 @@ Built under the Discord.js v13 library for interacting with the Discord API.
 ```sh-session
 npm install
 ```
-3. Import `.env` file for the bot token
 
 ## Deployment
 The bot is automatically deployed to and hosted on Discord by Heroku.
