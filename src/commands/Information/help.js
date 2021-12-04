@@ -15,7 +15,7 @@ module.exports = {
                 { name: `Moderation`, value: '```Coming soon!```', inline: true }
             )
             .setTimestamp()
-            .setColor("ORANGE")
+            .setColor("#21302b")
             .setFooter(client.user.tag, client.user.displayAvatarURL());
 
         await interaction.reply({ embeds: [userEmbed] });
