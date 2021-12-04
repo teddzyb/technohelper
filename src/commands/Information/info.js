@@ -31,7 +31,7 @@ module.exports = {
                         { name: `Joined At:`, value: `${phTime} (PHT)`, inline: false }
                     )
                     .setTimestamp()
-                    .setColor("#21302b")
+                    .setColor("#127c7c")
                     .setFooter(client.user.tag, client.user.displayAvatarURL());
 
                 await interaction.reply({ embeds: [userEmbed] });
@@ -48,7 +48,7 @@ module.exports = {
                         { name: `Joined At:`, value: `${phTime} (PHT)`, inline: false }
                     )
                     .setTimestamp()
-                    .setColor("#21302b")
+                    .setColor("#127c7c")
                     .setFooter(client.user.tag, client.user.displayAvatarURL());
 
                 await interaction.reply({ embeds: [userEmbed] });
@@ -68,7 +68,7 @@ module.exports = {
                         { name: `Created At:`, value: `${phTime} (PHT)`, inline: true }
                     )
                     .setTimestamp()
-                    .setColor("#21302b")
+                    .setColor("#127c7c")
                     .setFooter(client.user.tag, client.user.displayAvatarURL());
 
                 await interaction.reply({ embeds: [userEmbed] });
